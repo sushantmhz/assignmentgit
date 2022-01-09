@@ -1,3 +1,4 @@
 Git commit assignment 
 commit second
 commit 2
+third commit on samcode branch
